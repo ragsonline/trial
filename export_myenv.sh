@@ -1,2 +1,2 @@
-export NAME=RAGHU
-export HIGH=Altitude
+NAME=RAGHU
+HIGH=Altitude
